@@ -1,0 +1,5 @@
+C:\Users\amaca\OrientadaObjetos\ConsoleApp\ConsoleApp\bin\NoDebug\ConsoleApp.exe.config
+C:\Users\amaca\OrientadaObjetos\ConsoleApp\ConsoleApp\bin\NoDebug\ConsoleApp.exe
+C:\Users\amaca\OrientadaObjetos\ConsoleApp\ConsoleApp\obj\NoDebug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\amaca\OrientadaObjetos\ConsoleApp\ConsoleApp\obj\NoDebug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\amaca\OrientadaObjetos\ConsoleApp\ConsoleApp\obj\NoDebug\ConsoleApp.exe
