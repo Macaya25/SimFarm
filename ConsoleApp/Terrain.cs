@@ -4,15 +4,15 @@ namespace ConsoleApp
 {
     class Terrain
     {
-
-        public string[,] cell = new string[10, 10];
+        public Tile[,] cell = new Tile[10, 10];
+        private Random randNum = new Random();
         public Terrain()
         {
             for (int i = 0; i < 10; i++)
             {
                 for (int j = 0; j < 10; j++)
                 {
-                    cell[i, j] = "T";
+                    cell[i, j] = new Tile(randNum);
                 }
                 
             }
